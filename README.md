@@ -27,6 +27,7 @@ php artisan import:product-data-from-URL
 ======================================= .ENV CODE ======================================
 
 APP_NAME=Webshop
+
 APP_ENV=local
 APP_KEY=base64:6K+S/s8B3Nc+CoewJPFz4B51922+tNSXWvh1kyQj3cY=
 APP_DEBUG=true
