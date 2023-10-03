@@ -1,8 +1,9 @@
 Project : Webshop
 
 Action Points : 
+# Create DB scheema using > 'php artisan migrate' command 
 
-1. Import Masterdata : Import customer data Artisan commands
+1. Import Masterdata : Import customer data using custom Artisan commands
 
 # Import customer data using locally stored CSV file
 php artisan import:customer-data
