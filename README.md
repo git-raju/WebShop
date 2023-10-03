@@ -1,7 +1,7 @@
 Project : Webshop
 
 Action Points : 
-# Create DB scheema using > 'php artisan migrate' command 
+# Create DB scheema using > 'php artisan migrate' command [SQL DB schema is also in ./SQL folder at root ]
 
 1. Import Masterdata : Import customer data using custom Artisan commands
 
@@ -19,5 +19,5 @@ php artisan import:product-data
 # Import product data directly from CSV URL
 php artisan import:product-data-from-URL
 
-3. APIs : Postman collection in root folder > Webshop.postman_collectionV2.0 / Webshop.postman_collectionV2.1
-4. Screenshots are in ./screenshots folder
+# APIs : Postman collection is available in root folder > Webshop.postman_collectionV2.0 / Webshop.postman_collectionV2.1
+# Screenshots are in ./screenshots folder
